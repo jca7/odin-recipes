@@ -1,0 +1,12 @@
+.class .second-class {
+  color: blue;
+  
+}
+.class.second-class {
+
+  color: red;
+}
+body {
+  background-color: black;
+}
+
